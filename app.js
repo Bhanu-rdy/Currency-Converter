@@ -1,5 +1,3 @@
-// https://open.er-api.com/v6/latest/USD
-
 const dropdowns = document.querySelectorAll("select");
 const btn = document.querySelector("button");
 const fromSelect = document.querySelector(".from select");
